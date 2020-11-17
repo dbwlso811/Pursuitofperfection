@@ -7,5 +7,5 @@ I am a web publisher.
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](//https://dbwlso811.github.io/portfolio/index.html)
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=dbwlso811&show_icons=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=dbwlso811&show_icons=true alt=Elangovan/>
 </p>
