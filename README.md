@@ -1,7 +1,7 @@
 # Hello! <img src="https://user-images.githubusercontent.com/69137860/99356371-62825180-28ed-11eb-902e-159ca9cb872c.gif" width="8%" height="4%" alt="hello"></img>
 
 I am a web backend developer.<br/>
-My Portfolio -> [Click](https://yoo-jin-k.github.io/portfolio_2023){target="_blank"}
+My Portfolio -> [Click](https://yoo-jin-k.github.io/portfolio_2023 target="_blank)
 * I can handle of programs like Java, React, Spring, Javascript, jQuery...
 
 <p align="center">
